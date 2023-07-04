@@ -26,7 +26,7 @@ FastAPI, SQLAlchemy, Postgres, docker/docker-compose
 ## How to run your code in local environment
 ```
 cd ctw
-edit docker-compose.yml: put your API key for fetching data from AlphaVantage. [API_KEY=V1EVWNVF2T9UVPIN]
+edit docker-compose.yml: put your API key for fetching data from AlphaVantage.
 docker compose up
 ```
 API Document: https://localhost:5000/docs
