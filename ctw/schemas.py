@@ -5,7 +5,6 @@ from datetime import date
 
 class MsgResponse(BaseModel):
     message: str
-    id: Optional[str] = None
 
 
 class FinData(BaseModel):
