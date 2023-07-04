@@ -35,27 +35,3 @@ API Document: https://localhost:5000/docs
 API keys for different environment can be stored in some key management services like 1password.
 
 
-## Requirements:
-
-- The program should be written in Python 3.
-- You are free to use any API and libraries you like, but should include a brief explanation of why you chose the API and libraries you used in README.
-- The API key to retrieve financial data should be stored securely. Please provide a description of how to maintain the API key from both local development and production environment in README.
-- The database in Problem Statement 1 could be created using SQLite/MySQL/.. with your own choice.
-- The program should include error handling to handle cases where the API returns an error or the data is not in the correct format.
-- The program should cover as many edge cases as possible, not limited to expectations from deliverable above.
-- The program should use appropriate data structures and algorithms to store the data and perform the calculations.
-- The program should include appropriate documentation, including docstrings and inline comments to explain the code.
-
-## Evaluation Criteria:
-
-Your solution will be evaluated based on the following criteria:
-
-- Correctness: Does the program produce the correct results?
-- Code quality: Is the code well-structured, easy to read, and maintainable?
-- Design: Does the program make good use of functions, data structures, algorithms, databases, and libraries?
-- Error handling: Does the program handle errors and unexpected input appropriately?
-- Documentation: Is the code adequately documented, with clear explanations of the algorithms and data structures used?
-
-## Additional Notes:
-
-You have 7 days to complete this assignment and submit your solution.
